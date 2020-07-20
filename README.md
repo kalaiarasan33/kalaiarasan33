@@ -13,22 +13,22 @@ I mostly work with CI/CD Setup, Cloud Services, Developing Automation & SRE tool
 
 <p float="left">
     <a href="https://www.python.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/kalaiarasan33/kalaiarasan/master/assets/python.gif" height="90" />
+    <img src="https://raw.githubusercontent.com/kalaiarasan33/kalaiarasan33/master/assets/python.gif" height="90" />
   </a>
   <a href="https://golang.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/kalaiarasan33/kalaiarasan/master/assets/golang.gif" height="90" />
+    <img src="https://raw.githubusercontent.com/kalaiarasan33/kalaiarasan33/master/assets/golang.gif" height="90" />
   </a>
   <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/kalaiarasan33/kalaiarasan/master/assets/docker.gif" height="80" /> 
+    <img src="https://raw.githubusercontent.com/kalaiarasan33/kalaiarasan33/master/assets/docker.gif" height="80" /> 
   </a>
   <a href="https://kubernetes.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/kalaiarasan33/kalaiarasan/master/assets/k8s.gif"  height="75" />
+    <img src="https://raw.githubusercontent.com/kalaiarasan33/kalaiarasan33/master/assets/k8s.gif"  height="75" />
   </a>
   <a href="https://www.jenkins.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/kalaiarasan33/kalaiarasan/master/assets/cicd.gif"  height="65" />
+    <img src="https://raw.githubusercontent.com/kalaiarasan33/kalaiarasan33/master/assets/cicd.gif"  height="65" />
   </a>
   <a href="https://www.terraform.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/kalaiarasan33/kalaiarasan/master/assets/terraform.gif" width="120" />
+    <img src="https://raw.githubusercontent.com/kalaiarasan33/kalaiarasan33/master/assets/terraform.gif" width="120" />
   </a>
 
  </p>
@@ -37,7 +37,7 @@ I mostly work with CI/CD Setup, Cloud Services, Developing Automation & SRE tool
   
  <p float="left">
   <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/kalaiarasan33/kalaiarasan/master/assets/aws.gif"  height="75" />
+    <img src="https://raw.githubusercontent.com/kalaiarasan33/kalaiarasan33/master/assets/aws.gif"  height="75" />
   </a>
  </p>
   
@@ -45,16 +45,16 @@ I mostly work with CI/CD Setup, Cloud Services, Developing Automation & SRE tool
   
  <p float="left">
   <a href="https://grafana.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/kalaiarasan33/kalaiarasan/master/assets/grafana.gif" height="60" />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/kalaiarasan33/kalaiarasan33/master/assets/grafana.gif" height="60" />&nbsp;&nbsp;
   </a>
   <a href="https://prometheus.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/kalaiarasan33/kalaiarasan/master/assets/prometheus.gif" height="65" />
+    <img src="https://raw.githubusercontent.com/kalaiarasan33/kalaiarasan33/master/assets/prometheus.gif" height="65" />
   </a>
   <a href="https://www.splunk.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/kalaiarasan33/kalaiarasan/master/assets/splunk.png" height="60" />
+    <img src="https://raw.githubusercontent.com/kalaiarasan33/kalaiarasan33/master/assets/splunk.png" height="60" />
   </a>
   <a href="https://newrelic.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/kalaiarasan33/kalaiarasan/master/assets/newrelic.png" height="60" />
+    <img src="https://raw.githubusercontent.com/kalaiarasan33/kalaiarasan33/master/assets/newrelic.png" height="60" />
   </a>
 </p>
 
@@ -62,13 +62,13 @@ I mostly work with CI/CD Setup, Cloud Services, Developing Automation & SRE tool
   
  <p float="left">
   <a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/kalaiarasan33/kalaiarasan/master/assets/flask.png" height="80" />
+    <img src="https://raw.githubusercontent.com/kalaiarasan33/kalaiarasan33/master/assets/flask.png" height="80" />
   </a>
   <a href="https://godoc.org/github.com/gin-gonic/gin/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/kalaiarasan33/kalaiarasan/master/assets/gin.png" height="80" />
+    <img src="https://raw.githubusercontent.com/kalaiarasan33/kalaiarasan33/master/assets/gin.png" height="80" />
   </a>
   <a href="https://nodejs.org/en/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/kalaiarasan33/kalaiarasan/master/assets/nodejs.png" height="80" />
+    <img src="https://raw.githubusercontent.com/kalaiarasan33/kalaiarasan33/master/assets/nodejs.png" height="80" />
   </a>
 </p>
 
@@ -77,7 +77,7 @@ I mostly work with CI/CD Setup, Cloud Services, Developing Automation & SRE tool
   
  <p float="left">
   <a href="https://www.mongodb.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/kalaiarasan33/kalaiarasan/master/assets/mongo.gif" height="80" />
+    <img src="https://raw.githubusercontent.com/kalaiarasan33/kalaiarasan33/master/assets/mongo.gif" height="80" />
   </a>
 </p>
 
@@ -85,13 +85,13 @@ I mostly work with CI/CD Setup, Cloud Services, Developing Automation & SRE tool
   
  <p float="left">
   <a href="https://scikit-learn.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/kalaiarasan33/kalaiarasan/master/assets/sklearn.png" height="80" />
+    <img src="https://raw.githubusercontent.com/kalaiarasan33/kalaiarasan33/master/assets/sklearn.png" height="80" />
   </a>
   <a href="https://www.fast.ai/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/kalaiarasan33/kalaiarasan/master/assets/fastai.png" height="80" />
+    <img src="https://raw.githubusercontent.com/kalaiarasan33/kalaiarasan33/master/assets/fastai.png" height="80" />
   </a>
   <a href="https://aws.amazon.com/sagemaker/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/kalaiarasan33/kalaiarasan/master/assets/sagemaker.png" height="80" />
+    <img src="https://raw.githubusercontent.com/kalaiarasan33/kalaiarasan33/master/assets/sagemaker.png" height="80" />
   </a>
 </p>
 
