@@ -77,7 +77,7 @@ I mostly work with CI/CD Setup, Cloud Services, Developing Automation & SRE tool
   
  <p float="left">
   <a href="https://www.mongodb.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/kalaiarasan33/kalaiarasan/master/assets/flask.png" height="80" />
+    <img src="https://raw.githubusercontent.com/kalaiarasan33/kalaiarasan/master/assets/mongo.gif" height="80" />
   </a>
 </p>
 
