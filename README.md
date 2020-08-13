@@ -1,4 +1,4 @@
-                  Lots of Engineers aspire to be full-stack, but I don't. I aspire to be a T-Shaped Engineers.
+                  Lots of Engineers aspire to be full-stack, but I don't. I aspire to be a T-Shaped Engineer.
 
 ### Hi there 👋        
 
